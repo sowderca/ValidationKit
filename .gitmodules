@@ -1,0 +1,3 @@
+[submodule "packages/Operation-Validation-Framework"]
+	path = packages/Operation-Validation-Framework
+	url = https://github.com/PowerShell/Operation-Validation-Framework.git
